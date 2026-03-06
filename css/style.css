@@ -1,0 +1,15 @@
+.content{
+    height: 500px;
+    width:1400px;
+    margin: auto;
+    position: fixed;
+    z-index: -1;
+    background-image: url('../images/place.jpg');
+    background-repeat: no-repeat;
+}
+
+.content-text{
+    width: 100px;
+    height: 100px;
+    
+}

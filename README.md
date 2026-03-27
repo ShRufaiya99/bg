@@ -1,4 +1,4 @@
-# 🎨 Hero Background Styling Practice
+# 🎨 hero-section-bg
 
 This project is a dedicated practice session focusing on mastering **CSS Background Properties**. It demonstrates how to create visually appealing hero sections for modern websites using various styling techniques.
 
